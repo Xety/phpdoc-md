@@ -25,7 +25,7 @@
 | Name | Description |
 |------|-------------|
 <?php foreach ($this->methods as $name => $info) : ?>
-|[<?= $name ?>](#<?= strtolower($this->classShortName.$name) ?>)|<?= $info->shortDescription ?>|
+|[<?= $name ?>](#<?= strtolower($this->classShortName.$name) ?>)|<?= str_replace("\n", "", $info->shortDescription) ?>|
 <?php endforeach ?>
 
 <?php if ($this->inheritedMethods): ?>

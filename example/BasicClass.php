@@ -41,9 +41,7 @@ class BasicClass
     }
 
     /**
-     * Returns one
-     *
-     * That is long description for one method
+     * Returns one That is long description for one method
      * written in more then one line
      *
      * @return integer

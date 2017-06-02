@@ -14,7 +14,7 @@ various PHPDoc tags are used.
 |------|-------------|
 |[__construct](#basicclass__construct)|Constructs an object|
 |[addValues](#basicclassaddvalues)|Adds two arguments|
-|[one](#basicclassone)|Returns one|
+|[one](#basicclassone)|Returns one That is long description for one methodwritten in more then one line|
 
 
 
@@ -69,9 +69,9 @@ final public static one (void)
 
 **Description**
 
-Returns one
-That is long description for one method  
+Returns one That is long description for one method
 written in more then one line
+
 **Parameters**
 
 `This function has no parameters.`
