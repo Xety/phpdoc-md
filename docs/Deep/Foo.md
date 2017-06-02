@@ -1,5 +1,4 @@
-# Clean\PhpDocMd\Example\Deep\Foo  
-
+# Clean\PhpDocMd\Example\Deep\Foo
 This is a Foo class
 
 
@@ -15,23 +14,19 @@ This is a Foo class
 
 
 
-### Foo::__construct  
-
-**Description**
-
+### Foo::__construct
 ```php
 public __construct (array $options)
 ```
 
-Constructs an object 
+**Description**
 
- 
+Constructs an object
 
 **Parameters**
 
 * `(array) $options`
-: options  
-
+: options
 **Return Values**
 
 

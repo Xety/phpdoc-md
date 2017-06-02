@@ -1,9 +1,14 @@
-# Clean\PhpDocMd\Example\ExtendExtendClass  
-
+# Clean\PhpDocMd\Example\ExtendExtendClass
 
 
 ## Implements:
-Iterator, Traversable, ArrayAccess, SeekableIterator, Serializable, Countable
+    `Iterator`,
+    `Traversable`,
+    `ArrayAccess`,
+    `SeekableIterator`,
+    `Serializable`,
+    `Countable`,
+
 
 ## Extend:
 
@@ -47,28 +52,23 @@ Clean\PhpDocMd\Example\ExtendClass
 
 
 
-### ExtendExtendClass::public2Method  
-
-**Description**
-
+### ExtendExtendClass::public2Method
 ```php
 public public2Method (string $firstArgument, string $secondArgument)
 ```
 
-A summary informing the user what the associated element does. 
+**Description**
 
+A summary informing the user what the associated element does.
 A *description*, that can span multiple lines, to go _in-depth_ into the details of this element  
-and to provide some background information or textual references. 
-
+and to provide some background information or textual references.
 **Parameters**
 
 * `(string) $firstArgument`
 : With a *description* of this argument, these may also  
-   span multiple lines.  
-* `(string) $secondArgument`
+   span multiple lines.* `(string) $secondArgument`
 : With a *description* of this argument, these may also  
-   span multiple lines.  
-
+   span multiple lines.
 **Return Values**
 
 `void`
