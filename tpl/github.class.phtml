@@ -9,9 +9,7 @@
 
 <?php if ($interfaces = $this->interfaces): ?>
 ## Implements:
-<?php foreach ($interfaces as $interface): ?>
-`<?= $interface ?>`,
-<?php endforeach ?>
+<?php foreach ($interfaces as $interface): ?>`<?= $interface ?>`,<?php endforeach ?>
 <?php endif ?>
 
 
