@@ -2,12 +2,12 @@
 
 
 ## Implements:
-    `Iterator`,
-    `Traversable`,
-    `ArrayAccess`,
-    `SeekableIterator`,
-    `Serializable`,
-    `Countable`,
+`Iterator`,
+`Traversable`,
+`ArrayAccess`,
+`SeekableIterator`,
+`Serializable`,
+`Countable`,
 
 
 ## Extend:
