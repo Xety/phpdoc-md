@@ -32,6 +32,7 @@ Constructs an object
 
 * `(array) $options`
 : options
+
 **Return Values**
 
 `void`
@@ -54,6 +55,7 @@ Adds two arguments
 * `(float) $one`
 : First argument* `(float) $two`
 : Second argument
+
 **Return Values**
 
 `float`
@@ -75,6 +77,7 @@ written in more then one line
 **Parameters**
 
 `This function has no parameters.`
+
 
 **Return Values**
 

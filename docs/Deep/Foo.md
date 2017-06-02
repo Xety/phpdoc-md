@@ -27,6 +27,7 @@ Constructs an object
 
 * `(array) $options`
 : options
+
 **Return Values**
 
 

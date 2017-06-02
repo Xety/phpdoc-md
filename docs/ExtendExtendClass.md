@@ -63,6 +63,7 @@ and to provide some background information or textual references.
    span multiple lines.* `(string) $secondArgument`
 : With a *description* of this argument, these may also  
    span multiple lines.
+
 **Return Values**
 
 `void`
