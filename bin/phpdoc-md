@@ -4,7 +4,7 @@
 use ReflectionClass;
 
 require 'vendor/autoload.php';
-$config = require '.phpdoc-md';
+$config = require '.phpdoc-md.php';
 
 function getDestinationDirectory(ReflectionClass $reflection, $rootNamespace, $rootDir)
 {
